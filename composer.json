@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Arashrasoulzadeh\\RequestMethod\\": "src/"
+            "ArashRasoulzadeh\\RequestMethod\\": "src/"
         }
     },
     "authors": [
