@@ -1,0 +1,18 @@
+{
+    "name": "arashrasoulzadeh/request-method",
+    "description": "functional routes",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arashrasoulzadeh\\RequestMethod\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arash Rasoulzadeh",
+            "email": "arashrasoulzadeh@gmail.com"
+        }
+    ],
+    "require": {}
+}
